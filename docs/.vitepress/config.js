@@ -42,5 +42,6 @@ export default {
     search: {
       provider: 'local'
     }
-  }
+  },
+  ignoreDeadLinks: true
 }
