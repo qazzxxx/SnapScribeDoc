@@ -1,6 +1,6 @@
 export default {
   title: 'SnapScribe',
-  description: '操作自动截图，生成精美文档',
+  description: '操作自动截图，生成精美文档 - SnapScribe',
   lang: 'zh-CN',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
