@@ -6,7 +6,7 @@ hero:
   text: "操作自动截图，生成精美文档"
   tagline: "智能记录网页操作流程，自动生成带截图的Markdown文档"
   image:
-    src: /SnapScribe.png
+    src: https://pic.fengsutb.com/pic/SnapScribe.png
     alt: SnapScribe
   actions:
     - theme: brand
