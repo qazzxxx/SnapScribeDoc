@@ -1,0 +1,16 @@
+{
+  "name": "snapscribedoc",
+  "version": "1.0.0",
+  "description": "SnapScribe - 操作自动截图，生成精美文档",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0"
+  },
+  "keywords": ["browser-extension", "screenshot", "documentation", "markdown"],
+  "author": "SnapScribe Team",
+  "license": "MIT"
+}
