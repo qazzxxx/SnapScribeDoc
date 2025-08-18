@@ -11,10 +11,10 @@ hero:
   actions:
     - theme: brand
       text: 开始使用
-      link: /installation
+      link: /2install
     - theme: alt
       text: 功能介绍
-      link: /features
+      link: /4features
 
 features:
   - icon: 📸

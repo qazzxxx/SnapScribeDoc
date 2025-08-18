@@ -10,27 +10,35 @@ export default {
     logo: '/logo.png',
     nav: [
       { text: '首页', link: '/' },
-      { text: '功能介绍', link: '/features' },
-      { text: '安装使用', link: '/installation' },
-      { text: '使用场景', link: '/scenarios' },
-      { text: '技术特性', link: '/technical' }
+      { text: '功能介绍', link: '/4features' },
+      { text: '安装使用', link: '/2install' },
+      { text: '使用场景', link: '/5scenarios' },
+      { text: '加入我们', link: '/8join' }
     ],
     sidebar: [
       {
         text: '开始使用',
         items: [
-          { text: '简介', link: '/' },
-          { text: '安装指南', link: '/installation' }
+          { text: '简介', link: '/1intro' },
+          { text: '安装指南', link: '/2install' },
+          { text: '开始使用', link: '/3start' }
         ]
       },
       {
-        text: '功能详解',
+        text: '插件介绍',
         items: [
-          { text: '核心功能', link: '/features' },
-          { text: '使用场景', link: '/scenarios' },
-          { text: '技术特性', link: '/technical' }
+          { text: '核心功能', link: '/4features' },
+          { text: '使用场景', link: '/5scenarios' },
+          { text: '技术特性', link: '/6technical' }
         ]
-      }
+      },
+      {
+        text: '持续发展',
+        items: [
+          { text: '后续要做', link: '/7doing' },
+          { text: '加入我们', link: '/8join' }
+        ]
+      }      
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/qazzxxx/SnapScribeDoc' }
