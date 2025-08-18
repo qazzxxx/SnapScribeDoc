@@ -41,7 +41,8 @@ export default {
     },
     search: {
       provider: 'local'
-    }
+    },
+    outlineTitle: "大纲"
   },
   ignoreDeadLinks: true
 }
