@@ -1,5 +1,5 @@
 export default {
-  title: 'SnapScribe',
+  title: 'SnapScribe - 操作自动截图，生成精美文档',
   description: '操作自动截图，生成精美文档 - SnapScribe',
   lang: 'zh-CN',
   head: [
@@ -33,11 +33,11 @@ export default {
       }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/snapscribe/snapscribe' }
+      { icon: 'github', link: 'https://github.com/qazzxxx/SnapScribeDoc' }
     ],
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2024 SnapScribe Team'
+      copyright: 'Copyright © 2025 SnapScribe Team'
     },
     search: {
       provider: 'local'

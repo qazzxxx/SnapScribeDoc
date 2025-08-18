@@ -6,7 +6,7 @@ hero:
   text: "操作自动截图，生成精美文档"
   tagline: "智能记录网页操作流程，自动生成带截图的Markdown文档"
   image:
-    src: https://pic.fengsutb.com/pic/SnapScribe.png
+    src: /SnapScribe.png
     alt: SnapScribe
   actions:
     - theme: brand
@@ -46,11 +46,11 @@ SnapScribe 是一款专为提高工作效率而设计的浏览器扩展，它能
 - **简化流程**：一键导出，无需复杂的后期编辑
 - **增强协作**：标准化的文档格式，便于团队分享和协作
 
-## 🎯 立即开始
+<!-- ## 🎯 立即开始
 
 1. [下载安装](/installation) SnapScribe 扩展
 2. 打开需要记录的网页
 3. 点击扩展图标开始录制
-4. 完成操作后导出精美文档
+4. 完成操作后导出精美文档 -->
 
 让操作记录变得简单高效，让文档制作变得轻松愉快！ 🎉
