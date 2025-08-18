@@ -1,5 +1,5 @@
 export default {
-  title: 'SnapScribe - 操作自动截图，生成精美文档',
+  title: 'SnapScribe',
   description: '操作自动截图，生成精美文档 - SnapScribe',
   lang: 'zh-CN',
   head: [
