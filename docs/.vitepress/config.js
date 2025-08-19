@@ -10,9 +10,9 @@ export default {
     logo: '/logo.png',
     nav: [
       { text: '首页', link: '/' },
+      { text: '下载安装', link: '/2install' },
+      { text: '开始使用', link: '/3start' },
       { text: '功能介绍', link: '/4features' },
-      { text: '安装使用', link: '/2install' },
-      { text: '使用场景', link: '/5scenarios' },
       { text: '加入我们', link: '/8join' }
     ],
     sidebar: [
