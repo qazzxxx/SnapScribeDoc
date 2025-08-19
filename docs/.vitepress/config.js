@@ -27,9 +27,9 @@ export default {
       {
         text: '插件介绍',
         items: [
-          { text: '核心功能', link: '/4features' },
+          { text: '插件功能', link: '/4features' },
           { text: '使用场景', link: '/5scenarios' },
-          { text: '技术特性', link: '/6technical' }
+          { text: '更新日志', link: '/6loading' }
         ]
       },
       {
