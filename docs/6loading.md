@@ -1,5 +1,47 @@
 # 📝 更新日志
 
+## v2.1.0
+
+### 1、彻底重构截图编辑器
+
+::: details 功能介绍
+
+彻底重构截图编辑器，更加现代化
+
+<center> <img src="https://raw.gitmirror.com/TWO-ICE/image/main/week/202508251031516.png" style="zoom:33%;" /></center>
+
+:::
+
+### 2、新增导出html格式
+
+::: details 功能介绍
+
+<center><img src="https://raw.gitmirror.com/TWO-ICE/image/main/week/202508251038898.png" style="zoom:25%;" /></center>
+
+<center><img src="https://raw.gitmirror.com/TWO-ICE/image/main/week/202508251043348.png" style="zoom:33%;" /></center>
+
+:::
+
+### 3、新增导出PDF格式
+
+::: details 功能介绍
+
+<center><img src="https://raw.gitmirror.com/TWO-ICE/image/main/week/202508251040731.png" style="zoom:25%;" /></center>
+
+<center> <img src="https://raw.gitmirror.com/TWO-ICE/image/main/week/202508251042085.png" style="zoom:33%;" /></center>
+
+:::
+
+### 4、新增导出word格式
+
+::: details 功能介绍
+
+<center><img src="https://raw.gitmirror.com/TWO-ICE/image/main/week/202508251041998.png" style="zoom:25%;" /></center>
+
+<center><img src="https://raw.gitmirror.com/TWO-ICE/image/main/week/202508251045945.png" style="zoom:33%;" /></center>
+
+:::
+
 ## v2.0.0
 
 #### 1、新增`点击元素`高亮显示

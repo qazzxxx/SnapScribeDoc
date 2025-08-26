@@ -59,13 +59,13 @@
 
 :::
 
-### 截图美化
+### 截图编辑器（美化）[v2.1.0](./6loading.md#v2.1.0)
 
 ::: details 功能介绍
 
-每一步的截图都支持单独`标注`和`美化`
+彻底重构截图编辑器，更加现代化
 
-<img src="https://raw.gitmirror.com/TWO-ICE/image/main/week/202508191334401.png" style="zoom:50%;" />
+<center> <img src="https://raw.gitmirror.com/TWO-ICE/image/main/week/202508251031516.png" style="zoom:33%;" /></center>
 
 :::
 
@@ -128,5 +128,34 @@
 
 ![](https://raw.gitmirror.com/TWO-ICE/image/main/week/202508221715506.png)
 
+:::
+
+### html格式[v2.1.0](./6loading.md#v2.1.0)
+
+::: details 功能介绍
+
+<center><img src="https://raw.gitmirror.com/TWO-ICE/image/main/week/202508251038898.png" style="zoom:25%;" /></center>
+
+<center><img src="https://raw.gitmirror.com/TWO-ICE/image/main/week/202508251043348.png" style="zoom:33%;" /></center>
+
+:::
+
+### PDF格式[v2.1.0](./6loading.md#v2.1.0)
+
+::: details 功能介绍
+
+<center><img src="https://raw.gitmirror.com/TWO-ICE/image/main/week/202508251040731.png" style="zoom:25%;" /></center>
+
+<center> <img src="https://raw.gitmirror.com/TWO-ICE/image/main/week/202508251042085.png" style="zoom:33%;" /></center>
+
+:::
+
+### 导出word格式[v2.1.0](./6loading.md#v2.1.0)
+
+::: details 功能介绍
+
+<center><img src="https://raw.gitmirror.com/TWO-ICE/image/main/week/202508251041998.png" style="zoom:25%;" /></center>
+
+<center><img src="https://raw.gitmirror.com/TWO-ICE/image/main/week/202508251045945.png" style="zoom:33%;" /></center>
 
 :::
