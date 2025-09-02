@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: "SnapScribe"
-  text: "操作自动截图，生成精美文档"
-  tagline: "智能记录网页操作流程，自动生成带截图的Markdown文档"
+  text: "步骤记录，自动截图，多格式导出"
+  tagline: "一个鼠标点击网页自动截图并记录步骤，支持多格式导出的浏览器插件"
   image:
     src: /logo.png
     alt: SnapScribe

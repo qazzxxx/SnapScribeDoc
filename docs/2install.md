@@ -2,7 +2,7 @@
 
 |                             Logo                             |             浏览器              |                           插件地址                           |
 | :----------------------------------------------------------: | :-----------------------------: | :----------------------------------------------------------: |
-| ![](https://raw.gitmirror.com/TWO-ICE/image/main/week/202508221500786.png) |  `edge 浏览器`（国内用户选择）  | [点我安装](https://microsoftedge.microsoft.com/addons/detail/acdgolljkjjpobjpjpenopfohjahoifl) |
+| ![](https://raw.gitmirror.com/TWO-ICE/image/main/week/202508221500786.png) |  `edge 浏览器`（国内用户选择）  | [点我安装](https://microsoftedge.microsoft.com/addons/detail/pmmipmiclkebogplcnihpfpmpeddgckn) |
 | ![](https://raw.gitmirror.com/TWO-ICE/image/main/week/202508221503823.png) | `Chrome 浏览器`（需要网络环境） | [点我安装](https://chromewebstore.google.com/detail/neijkcnhjjjcglhahinmhigahannljno) |
 
 ## 系统要求

@@ -24,7 +24,7 @@
 
 :::
 
-### github 图床 [v2.0.0](./6loading.md#v2.0.0)
+### github 图床 [v2.0.0](./6loading.md#v2-0-0)
 
 ::: details 功能介绍
 
@@ -38,6 +38,16 @@
 3. 图片将按日期自动分层存储，便于管理
 4. 使用 jsDelivr CDN 加速访问：`https://fastly.jsdelivr.net/gh/用户名/仓库名@分支/路径`
 5. 配置完成后，导出时图片将自动上传并生成 CDN 链接
+
+:::
+
+### 添加本地图片[v2.2.0](./6loading.md#v2-2-0)
+
+::: details 功能介绍
+
+步骤中可添加本地图片，不再仅限于浏览器中截图
+
+<center> <img src="https://img.twoice.fun:666/i/2025/09/02/202509020948747-2.png" style="zoom:33%;" /></center>
 
 :::
 
@@ -59,7 +69,7 @@
 
 :::
 
-### 截图编辑器（美化）[v2.1.0](./6loading.md#v2.1.0)
+### 截图编辑器（美化）[v2.1.0](./6loading.md#v2-1-0)
 
 ::: details 功能介绍
 
@@ -69,7 +79,7 @@
 
 :::
 
-### 点击元素高亮 [v2.0.0](./6loading.md#v2.0.0)
+### 点击元素高亮 [v2.0.0](./6loading.md#v2-0-0)
 
 ::: details 功能介绍
 
@@ -111,7 +121,7 @@
 
 :::
 
-### 复制/导出完整 markdown 文档 [v2.0.0](./6loading.md#v2.0.0)
+### 复制/导出完整 markdown 文档 [v2.0.0](./6loading.md#v2-0-0)
 
 ::: details 功能介绍
 
@@ -122,7 +132,7 @@
 
 :::
 
-### 导出文档长图 [v2.0.0](./6loading.md#v2.0.0)
+### 导出文档长图 [v2.0.0](./6loading.md#v2-0-0)
 
 ::: details 功能介绍
 
@@ -130,7 +140,7 @@
 
 :::
 
-### html格式[v2.1.0](./6loading.md#v2.1.0)
+### html格式[v2.1.0](./6loading.md#v2-1-0)
 
 ::: details 功能介绍
 
@@ -140,7 +150,7 @@
 
 :::
 
-### PDF格式[v2.1.0](./6loading.md#v2.1.0)
+### PDF格式[v2.1.0](./6loading.md#v2-1-0)
 
 ::: details 功能介绍
 
@@ -150,12 +160,28 @@
 
 :::
 
-### 导出word格式[v2.1.0](./6loading.md#v2.1.0)
+### 导出word格式[v2.1.0](./6loading.md#v2-1-0)
 
 ::: details 功能介绍
 
 <center><img src="https://raw.gitmirror.com/TWO-ICE/image/main/week/202508251041998.png" style="zoom:25%;" /></center>
 
 <center><img src="https://raw.gitmirror.com/TWO-ICE/image/main/week/202508251045945.png" style="zoom:33%;" /></center>
+
+:::
+
+### 导出视频格式[v2.2.0](./6loading.md#v2-2-0)
+
+::: details 功能介绍
+
+新增导出视频格式，可在设置中进行设置
+
+<center><img src="https://img.twoice.fun:666/i/2025/09/02/202509021006521-2.png" style="zoom:25%;" /></center>
+
+视频导出示例
+
+<video controls width="100%" >
+  <source src="https://pic.fengsutb.com/pic/SnapScribe演示视频_20250902_095437.webm" type="video/webm">
+</video>
 
 :::

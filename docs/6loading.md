@@ -1,5 +1,33 @@
 # 📝 更新日志
 
+## v2.2.0
+
+### 1、添加本地图片
+
+::: details 功能介绍
+
+步骤中可添加本地图片，不再仅限于浏览器中截图
+
+<center> <img src="https://img.twoice.fun:666/i/2025/09/02/202509020948747-2.png" style="zoom:33%;" /></center>
+
+:::
+
+### 2、新增导出视频格式
+
+::: details 功能介绍
+
+新增导出视频格式，可在设置中进行设置
+
+<center><img src="https://img.twoice.fun:666/i/2025/09/02/202509021006521-2.png" style="zoom:25%;" /></center>
+
+视频导出示例
+
+<video controls width="100%" >
+  <source src="https://pic.fengsutb.com/pic/SnapScribe演示视频_20250902_095437.webm" type="video/webm">
+</video>
+
+:::
+
 ## v2.1.0
 
 ### 1、彻底重构截图编辑器

@@ -35,10 +35,3 @@
 
 <img src="https://raw.gitmirror.com/TWO-ICE/image/main/week/202508191015339.png" style="zoom:50%;" />
 
-::: info 后续准备支持图床
-
-可以`导出`也可以`复制`整篇markdown
-
-<img src="https://raw.gitmirror.com/TWO-ICE/image/main/week/202508191119411.png" style="zoom:33%;" />
-
-:::
