@@ -4,7 +4,7 @@ export default {
   lang: 'zh-CN',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
-    ['meta', { name: 'theme-color', content: '#3c82f6' }]
+    ['meta', { name: 'theme-color', content: '#3c82f6' }],
     ['meta', { name: 'baidu-site-verification', content: 'codeva-OMRWnWdJIn' }]
   ],
   themeConfig: {
