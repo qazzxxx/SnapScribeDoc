@@ -20,7 +20,7 @@ export default {
       {
         text: '开始使用',
         items: [
-          { text: '简介', link: '/1intro' },
+          // { text: '简介', link: '/1intro' },
           { text: '安装指南', link: '/2install' },
           { text: '开始使用', link: '/3start' }
         ]
