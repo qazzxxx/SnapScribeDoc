@@ -46,12 +46,17 @@ export default {
     ],
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2025 SnapScribe Team'
+      copyright: 'Copyright © 2025 <a href="/8join.html">SnapScribe Team</a>'
     },
     search: {
       provider: 'local'
     },
-    outlineTitle: "大纲"
+    outlineTitle: "大纲",
+    lastUpdatedText: "最后更新时间",
   },
-  ignoreDeadLinks: true
+  ignoreDeadLinks: true,
+  lastUpdated: true,
+  sitemap: {
+    hostname: 'https://doc.qazz.site'
+  }
 }
