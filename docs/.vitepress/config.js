@@ -5,7 +5,11 @@ export default {
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'theme-color', content: '#3c82f6' }],
-    ['meta', { name: 'baidu-site-verification', content: 'codeva-OMRWnWdJIn' }]
+    ['meta', { name: 'baidu-site-verification', content: 'codeva-OMRWnWdJIn' }],
+    [
+      'script',
+      { async: '', id:"SnapScribeDoc",src: 'https://counterscale.ebeb.fun/tracker.js' }
+    ],
   ],
   themeConfig: {
     logo: '/logo.png',
